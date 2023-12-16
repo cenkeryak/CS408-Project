@@ -354,7 +354,7 @@ namespace ProjectClient
             }
             else
             {
-                richBox.AppendText("Problem occured while connecting...\n");
+                richBox.AppendText("Problem occured while connecting...: Please check the port number\n");
             }
         }
         private void connectButton_Click(object sender, EventArgs e)

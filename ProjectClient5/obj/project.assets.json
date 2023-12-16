@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\cenke\\.nuget\\packages\\": {}
+    "C:\\Users\\anil17\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cenke\\Documents_Main\\CS\\CS408\\Labs\\Project_Git\\CS408-Project\\ProjectClient4\\ProjectClient.csproj",
+      "projectUniqueName": "C:\\Users\\anil17\\Desktop\\FinalFolder\\CS408-Project\\ProjectClient5\\ProjectClient.csproj",
       "projectName": "ProjectClient",
-      "projectPath": "C:\\Users\\cenke\\Documents_Main\\CS\\CS408\\Labs\\Project_Git\\CS408-Project\\ProjectClient4\\ProjectClient.csproj",
-      "packagesPath": "C:\\Users\\cenke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cenke\\Documents_Main\\CS\\CS408\\Labs\\Project_Git\\CS408-Project\\ProjectClient4\\obj\\",
+      "projectPath": "C:\\Users\\anil17\\Desktop\\FinalFolder\\CS408-Project\\ProjectClient5\\ProjectClient.csproj",
+      "packagesPath": "C:\\Users\\anil17\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\anil17\\Desktop\\FinalFolder\\CS408-Project\\ProjectClient5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cenke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\anil17\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
